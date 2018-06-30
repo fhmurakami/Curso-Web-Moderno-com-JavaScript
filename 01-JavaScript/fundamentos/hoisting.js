@@ -13,6 +13,6 @@ function teste() {
 teste()
 // console.log('b =', b)
 
-console.log('c =', c) // Gera um erro
+console.log('c =', c) // Gera um erro, pois o 'hoisting' não ocorre em uma declaração com let
 let c = 5
 console.log('c =', c)
