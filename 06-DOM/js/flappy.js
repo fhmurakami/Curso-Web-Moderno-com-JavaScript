@@ -137,11 +137,19 @@ function colidiu(passaro, barreiras) {
     barreiras.pares.forEach(ParDeBarreiras => {
         if (!colidiu) {
             const superior = ParDeBarreiras.superior.elemento
-            const inferior = ParDeBarreiras.superior.elemento
+            const inferior = ParDeBarreiras.inferior.elemento
             colidiu = estaoSobrepostos(passaro.elemento, superior) || estaoSobrepostos(passaro.elemento, inferior)
         }
     })
     return colidiu
+}
+
+function gameOver() {
+    const areaDoJogo = document.querySelector('[wm-flappy]')
+    const mensagem = novoElemento('div', 'gameover')
+
+    mensagem.innerHTML = 'Game Over'
+    areaDoJogo.appendChild(mensagem)
 }
 
 function FlappyBird() {
@@ -166,6 +174,7 @@ function FlappyBird() {
             passaro.animar()
 
             if (colidiu(passaro, barreiras)) {
+                gameOver()
                 clearInterval(temporizador)
             }
         }, 20)
