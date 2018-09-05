@@ -9,7 +9,7 @@ const htmlmin = require('gulp-htmlmin')
 gulp.task('app', ['app.html', 'app.css', 'app.js', 'app.imgs'])
 
 gulp.task('app.html', () => {
-    return gulp.src('src/**/*/.html')
+    return gulp.src('src/**/*.html')
         .pipe(htmlmin({ collapseWhitespace: true }))
         .pipe(gulp.dest('build'))
 })
