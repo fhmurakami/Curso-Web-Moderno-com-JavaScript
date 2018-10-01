@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Arthur Oliveria",
+      "name": "Arthur Oliveira",
       "email": "aoliveira@cod3r.com.br"
     },
     {
@@ -11,9 +11,9 @@
       "email": "mjds@empresa.com"
     },
     {
+      "id": 3,
       "name": "Ana Silva",
-      "email": "anasilva@negocio.com.br",
-      "id": 3
+      "email": "anasilva@negocio.com.br"
     }
   ]
 }
