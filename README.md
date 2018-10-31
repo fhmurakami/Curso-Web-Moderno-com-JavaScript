@@ -468,3 +468,98 @@ Arquivos do Curso Web Moderno com JavaScript Completo 2018 da plataforma Udemy
   - 22 - Criar Tabela Empresas
   - 23 - Inserir Empresas
   - 24 - Consultar Empresas e Cidades
+
+- Seção 28 - Banco Não Relacional
+  - 01 - Instalação MongoDB (Mac)
+  - 02 - NoSQL: Visão Geral
+  - 03 - Relacional e Não Relacional (Exemplo)
+  - 04 - Comandos Básicos
+  - 05 - Inserir Dados
+  - 06 - Desafio Inserir (São Paulo)
+  - 07 - Desafio Inserir (São Paulo) - Resposta
+  - 08 - Consultas #01
+  - 09 - Consultas Agregadas (Teoria)
+  - 10 - Consultas #02
+  - 11 - Consultas #03
+  - 12 - Update
+  - 13 - Remove
+  - 14 - Inserir Empresas
+  - 15 - Consulta com Lookup #01
+  - 16 - Consulta com Lookup #02
+
+- Seção 29 - Express
+  - 01 - Introdução do Capítulo
+  - 02 - Criando o Projeto
+  - 03 - Configuração & Launcher #01
+  - 04 - Configuração & Launcher #02
+  - 05 - Tratando a Primeira Requisição
+  - 06 - Tipos de Resposta
+  - 07 - Middleware #01
+  - 08 - Middleware #02
+  - 09 - Lendo Dados da Requisição
+  - 10 - Entendendo o Body Parser
+  - 11 - Comunicação Entre Módulos #01
+  - 12 - Comunicação Entre Módulos #02
+
+- Seção 30 - Projeto Base de Conhecimento - Backend
+  - 01 - Visão Geral do Projeto
+  - 02 - Instalação do Postgres (Windows)
+  - 03 - Instalação do Postgres (Linux)
+  - 04 - Configurar Projeto
+  - 05 - Executar Versão Final do Projeto
+  - 06 - Middlewares
+  - 07 - Salvar Usuário (Estrutura)
+  - 08 - Banco de Dados Usando Knex #01
+  - 09 - Banco de Dados Usando Knex #02
+  - 10 - Funções de Validadção
+  - 11 - API de Usuário
+  - 12 - Desafio Obter Usuário Por ID
+  - 13 - Desafio Obter Usuário Por ID (Resposta)
+  - 14 - API de Categoria #01
+  - 15 - API de Categoria #02
+  - 16 - API de Artigo #01
+  - 17 - API de Artigo #02
+  - 18 - API de Autenticação
+  - 19 - Protegendo a API com Passport
+  - 20 - Validando Usuário Administrador
+  - 21 - API de Estatísticas (MongoDB)
+  - 22 - Integrando Bancos com Scheduler
+  - 23 - Soft Delete de Usuário
+  - 24 - Informações de Conexão no .env
+  - 25 - Validar Cadastro de Administradores
+
+- Seção 30 - Projeto Base de Conhecimento - Frontend
+  - 01 - Estrutura Inicial do Template
+  - 02 - Componente Cabeçalho
+  - 03 - Visibilidade do Menu (Toggle)
+  - 04 - Componente Menu do Usuário
+  - 05 - Componente Título da Página
+  - 06 - Router
+  - 07 - Componente Home
+  - 08 - Páginas Administrativas
+  - 09 - Cadastro de Usuário #01
+  - 10 - Configurando o Vue Toasted
+  - 11 - Cadastro de Usuário #02
+  - 12 - Cadastro de Usuário #03
+  - 13 - Cadastro de Categoria #01
+  - 14 - Cadastro de Categoria #02
+  - 15 - Cadastro de Artigo #01
+  - 16 - Cadastro de Artigo #02
+  - 17 - Artigos Por Categoria #01
+  - 18 - Artigos Por Categoria #02
+  - 19 - Exibir Artigo
+  - 20 - Artigos Por Categoria #03
+  - 21 - Menu da Aplicação #01
+  - 22 - Menu da Aplicação #02
+  - 23 - Autenticação: Alterando Store
+  - 24 - Autenticação: Tela de Login/Cadastro
+  - 25 - Autenticação: Logout
+  - 26 - Autenticação: Validar Token #01
+  - 27 - Autenticação: Validar Token #02
+  - 28 - Autenticação: Validando Admin
+  - 29 - Autenticação: Token Expirado
+  - 30 - Artigo com Highlight de Código
+  - 31 - Responsividade do Menu
+
+- Seção 32 - Conclusão
+  - 01 - Muito Obrigado!
